@@ -1,0 +1,23 @@
+{
+  "name": "projectsupport",
+  "version": "1.0.0",
+  "description": "Implementation of medium.com nodejs implementation https://medium.com/fbdevclagos/setting-up-your-development-environment-96a6858ed5bb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcvk/ProjectSupport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcvk/ProjectSupport/issues"
+  },
+  "homepage": "https://github.com/vikramcvk/ProjectSupport#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
